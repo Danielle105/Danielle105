@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danielle!
+👋 Hi, I’m Danielle!
 
 
 <!---
